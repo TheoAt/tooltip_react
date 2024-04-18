@@ -18,7 +18,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 .main-container {
@@ -34,5 +33,5 @@
 .main-title {
   font-family: var(--main-font);
   color: var(--outremer);
-  margin-bottom: var(--spacing);
+  margin-bottom: var(--spacing-medium);
 }
